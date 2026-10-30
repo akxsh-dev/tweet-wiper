@@ -156,22 +156,21 @@ Only these number settings are read. Anything else in `tweetWiperConfig` is igno
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'fontFamily':'-apple-system, Segoe UI, Helvetica, Arial, sans-serif', 'primaryColor':'#1c1c1e', 'primaryTextColor':'#f5f5f7', 'primaryBorderColor':'#3a3a3c', 'lineColor':'#86868b', 'tertiaryColor':'#2c2c2e'}}}%%
-flowchart LR
-    A(["You press Delete"]) --> B["List your posts, replies<br/>and reposts from X"]
-    B --> C["Delete the next one"]
+flowchart TB
+    A(["You press Delete"]) --> B["List what's left on your profile"]
+    B --> Q{"Anything left?"}
+    Q -- no --> Z(["All done"])
+    Q -- yes --> C["Delete the next one"]
     C --> D{"Near X's limit?"}
-    D -- yes --> E["Rest until X's<br/>15-minute window resets"]
+    D -- yes --> E["Rest until X's 15-minute window resets"]
     E --> C
-    D -- no --> F{"Round finished?"}
+    D -- no --> F{"End of the list?"}
     F -- no --> C
-    F -- yes --> G["Rescan your profile"]
-    G --> H{"Anything left?"}
-    H -- yes --> C
-    H -- no --> I(["All done"])
+    F -- yes --> B
     classDef start fill:#0a84ff,stroke:#0a84ff,color:#fff
     classDef done fill:#30d158,stroke:#30d158,color:#000
     class A start
-    class I done
+    class Z done
 ```
 
 <details>
