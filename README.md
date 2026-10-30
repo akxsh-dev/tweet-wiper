@@ -100,6 +100,8 @@ window.tweetWiperConfig = { minDelayMs: 3000, maxDelayMs: 6000 }
 | `batchSize`, `batchRestMin` | 180, 16 | When X sends no limit info, rest this many minutes after this many deletes |
 | `timeoutMs` | 20000 | Give up on a request after this long |
 
+Only these number settings are read. Anything else in `tweetWiperConfig` is ignored.
+
 ## How it works
 
 - **Listing:** X's website loads each profile tab (Posts, Replies, Reposts) with its own internal requests. Tweet Wiper notes those requests as the page makes them and sends them again page by page, so it always gets a fresh list from X instead of what the page has cached.

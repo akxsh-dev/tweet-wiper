@@ -29,7 +29,7 @@
     delete window.__tweetWiper;
   }
 
-  const CONFIG = Object.assign({
+  const CONFIG = {
     // X's internal ids for the two delete actions; looked up again from X's own code if they stop working
     queryIds: { DeleteTweet: 'VaenaVgh5q5ih7kvyVjgtg', DeleteRetweet: 'iQtK4dl5hBmXewYZuEOKVw' },
     // the public app token that x.com's own web page sends with every request (not a password)
@@ -43,10 +43,16 @@
     scanIdleRounds: 6,    // scrolls with nothing new before a profile scan ends
     scanRetries: 45,      // when X stops loading the profile ("Something went wrong"), retry this many times...
     scanRetryWaitMs: 60000, // ...this far apart
-    anyHost: false,
-  }, window.tweetWiperConfig || {});
+  };
+  // Only the numeric pacing settings can be changed from outside, so a pasted "tweak" can't swap the
+  // token, the request ids or the x.com check.
+  const tweaks = window.tweetWiperConfig || {};
+  for (const k of Object.keys(CONFIG)) {
+    const v = Number(tweaks[k]);
+    if (typeof CONFIG[k] === 'number' && k in tweaks && Number.isFinite(v) && v >= 0) CONFIG[k] = v;
+  }
 
-  if (!CONFIG.anyHost && !/(^|\.)(x|twitter)\.com$/.test(location.hostname)) {
+  if (!/(^|\.)(x|twitter)\.com$/.test(location.hostname)) {
     alert('Tweet Wiper: open https://x.com, log in, and paste it there.');
     return;
   }
@@ -571,7 +577,12 @@
     const rows = [['id', 'url', 'date', 'type', 'likes', 'text']].concat(S.selection.map((it) => [
       it.sourceId || it.id, urlOf(it), it.date ? new Date(it.date).toISOString() : '', it.type, it.likes ?? '', it.text,
     ]));
-    const csv = rows.map((r) => r.map((v) => `"${String(v).replace(/"/g, '""')}"`).join(',')).join('\r\n');
+    // A cell starting with = + - @ would run as a formula in Excel or Sheets (reposts carry other people's text).
+    const cell = (v) => {
+      const s = String(v);
+      return `"${(/^[=+\-@\t\r]/.test(s) ? "'" + s : s).replace(/"/g, '""')}"`;
+    };
+    const csv = rows.map((r) => r.map(cell).join(',')).join('\r\n');
     const a = document.createElement('a');
     a.href = URL.createObjectURL(new Blob(['﻿' + csv], { type: 'text/csv' }));
     a.download = `tweet-wiper-${S.me}-${new Date().toISOString().slice(0, 10)}.csv`;
@@ -644,7 +655,7 @@
     const urls = [...new Set(
       [...document.querySelectorAll('script[src]')].map((s) => s.src)
         .concat(performance.getEntriesByType('resource').map((e) => e.name))
-        .filter((u) => /abs\.twimg\.com\/responsive-web\/.*\.js(\?|$)/.test(u)),
+        .filter((u) => /^https:\/\/abs\.twimg\.com\/responsive-web\/.*\.js(\?|$)/.test(u)),
     )].sort((a, b) => /\/main\./.test(b) - /\/main\./.test(a));
     const ops = Object.keys(CONFIG.queryIds);
     const seen = new Set();
