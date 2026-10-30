@@ -18,9 +18,22 @@
   <img src="assets/demo.svg" width="100%" alt="Demo: press Delete once and Tweet Wiper deletes posts on an X profile by itself, rests at X's limit, and finishes with an empty profile.">
 </p>
 
-<p align="center">
-  <img src="assets/features.svg" width="100%" alt="Free: $0, forever, no sign-up. Private: only talks to x.com. Hands-off: one press, done.">
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Free.</h3>
+      No subscription, no app, no "connect your account" page. One small script you can read end to end.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Private.</h3>
+      It runs in your own logged-in x.com tab and only talks to x.com. It never asks for your password.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Hands-off.</h3>
+      Thousands of tweets, one press. It slows down before X's limit and picks up again on its own.
+    </td>
+  </tr>
+</table>
 
 ## What it deletes
 
@@ -45,14 +58,22 @@ You need a desktop browser: Chrome, Edge, Brave, Firefox or another Chromium bro
 
 That's it. Leave the tab open. When a batch is done it rescans your profile and keeps going until nothing that matches your filters is left.
 
-https://github.com/user-attachments/assets/538614d2-20d2-4a83-9ea7-7488de324efa
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howto.mp4"><img src="assets/videos/howto-preview.gif" width="100%" alt="Video: how to use Tweet Wiper, step by step"></a>
+  <br>
+  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howto.mp4"><b>▶&nbsp;&nbsp;Watch with sound</b></a>
+</p>
 
 > [!WARNING]
 > Deleting is permanent and X has no undo. If you might want your tweets later, [download your X archive](#old-tweets-and-your-archive) first.
 
 ## How long it takes
 
-https://github.com/user-attachments/assets/9d9ecf18-7fe6-4b31-a41c-ffd1c152a42f
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howlong.mp4"><img src="assets/videos/howlong-preview.gif" width="100%" alt="Video: how long it takes, about 200 deletes every 15 minutes"></a>
+  <br>
+  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howlong.mp4"><b>▶&nbsp;&nbsp;Watch with sound</b></a>
+</p>
 
 About 800 an hour: **1,000** tweets take about 1.5 hours, **5,000** about 7 hours, **20,000** about a day. Keep the tab open and the computer awake.
 
@@ -127,7 +148,11 @@ Only these number settings are read. Anything else in `tweetWiperConfig` is igno
 
 ## How it works
 
-https://github.com/user-attachments/assets/e429d8f2-be35-40a9-94c5-4ae45356ca56
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howitworks.mp4"><img src="assets/videos/howitworks-preview.gif" width="100%" alt="Video: how Tweet Wiper works"></a>
+  <br>
+  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howitworks.mp4"><b>▶&nbsp;&nbsp;Watch with sound</b></a>
+</p>
 
 <details>
 <summary><b>The details</b></summary>
