@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 96" width="1280" height="96" role="img" aria-labelledby="bg-t">
+<title id="bg-t">MIT License · Free forever · Nothing to install · Only talks to x.com</title>
+<style>@keyframes bga0{0%{opacity:0;transform:translateY(0px) scale(0.94);filter:blur(8px)}4.167%{opacity:0;transform:translateY(0px) scale(0.94);filter:blur(8px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}29.167%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}100%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}}.bga0{animation:bga0 2.4s 1 both;transform-box:fill-box;transform-origin:center}@keyframes bga1{0%{transform:translateX(-120px);opacity:0}37.5%{transform:translateX(-120px);opacity:1;animation-timing-function:cubic-bezier(.45,0,.2,1)}66.667%{transform:translateX(236px);opacity:1}67.083%{transform:translateX(236px);opacity:0}100%{transform:translateX(236px);opacity:0}}.bga1{animation:bga1 2.4s 1 both;}@keyframes bga2{0%{opacity:0;transform:translateY(0px) scale(0.94);filter:blur(8px)}7.917%{opacity:0;transform:translateY(0px) scale(0.94);filter:blur(8px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}32.917%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}100%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}}.bga2{animation:bga2 2.4s 1 both;transform-box:fill-box;transform-origin:center}@keyframes bga3{0%{transform:translateX(-120px);opacity:0}42.5%{transform:translateX(-120px);opacity:1;animation-timing-function:cubic-bezier(.45,0,.2,1)}71.667%{transform:translateX(246px);opacity:1}72.083%{transform:translateX(246px);opacity:0}100%{transform:translateX(246px);opacity:0}}.bga3{animation:bga3 2.4s 1 both;}@keyframes bga4{0%{opacity:0;transform:translateY(0px) scale(0.94);filter:blur(8px)}11.667%{opacity:0;transform:translateY(0px) scale(0.94);filter:blur(8px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}36.667%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}100%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}}.bga4{animation:bga4 2.4s 1 both;transform-box:fill-box;transform-origin:center}@keyframes bga5{0%{transform:translateX(-120px);opacity:0}47.5%{transform:translateX(-120px);opacity:1;animation-timing-function:cubic-bezier(.45,0,.2,1)}76.667%{transform:translateX(310px);opacity:1}77.083%{transform:translateX(310px);opacity:0}100%{transform:translateX(310px);opacity:0}}.bga5{animation:bga5 2.4s 1 both;}@keyframes bga6{0%{opacity:0;transform:translateY(0px) scale(0.94);filter:blur(8px)}15.417%{opacity:0;transform:translateY(0px) scale(0.94);filter:blur(8px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}40.417%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}100%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}}.bga6{animation:bga6 2.4s 1 both;transform-box:fill-box;transform-origin:center}@keyframes bga7{0%{transform:translateX(-120px);opacity:0}52.5%{transform:translateX(-120px);opacity:1;animation-timing-function:cubic-bezier(.45,0,.2,1)}81.667%{transform:translateX(322px);opacity:1}82.083%{transform:translateX(322px);opacity:0}100%{transform:translateX(322px);opacity:0}}.bga7{animation:bga7 2.4s 1 both;}@media (prefers-reduced-motion: reduce){[class]{animation:none!important}}</style>
+<defs><linearGradient id="bg-sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+<g transform="translate(139 20)"><g class="bga0">
+      <clipPath id="bg-c0"><rect width="196" height="56" rx="28"/></clipPath>
+      <rect width="196" height="56" rx="28" fill="#1c1c1e" stroke="#fff" stroke-opacity=".16"/>
+      <g clip-path="url(#bg-c0)"><rect class="bga1" x="0" y="0" width="90" height="56" fill="url(#bg-sheen)"/></g>
+      <circle cx="30" cy="28" r="15" fill="#0a84ff" fill-opacity=".18"/>
+      <path d="M5 2.5h7l4 4V18H5z M12 2.5v4h4" transform="translate(21 19) scale(0.9)" fill="none" stroke="#0a84ff" stroke-width="1.8888888888888888" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="56" y="35" font-size="19" font-weight="600" letter-spacing="-.2" fill="#f5f5f7">MIT License</text>
+    </g></g>
+<g transform="translate(351 20)"><g class="bga2">
+      <clipPath id="bg-c1"><rect width="206" height="56" rx="28"/></clipPath>
+      <rect width="206" height="56" rx="28" fill="#1c1c1e" stroke="#fff" stroke-opacity=".16"/>
+      <g clip-path="url(#bg-c1)"><rect class="bga3" x="0" y="0" width="90" height="56" fill="url(#bg-sheen)"/></g>
+      <circle cx="30" cy="28" r="15" fill="#30d158" fill-opacity=".18"/>
+      <path d="M10.5 3H17v6.5L9.5 17 3 10.5z M14 6.2h.01" transform="translate(21 19) scale(0.9)" fill="none" stroke="#30d158" stroke-width="1.8888888888888888" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="56" y="35" font-size="19" font-weight="600" letter-spacing="-.2" fill="#f5f5f7">Free forever</text>
+    </g></g>
+<g transform="translate(573 20)"><g class="bga4">
+      <clipPath id="bg-c2"><rect width="270" height="56" rx="28"/></clipPath>
+      <rect width="270" height="56" rx="28" fill="#1c1c1e" stroke="#fff" stroke-opacity=".16"/>
+      <g clip-path="url(#bg-c2)"><rect class="bga5" x="0" y="0" width="90" height="56" fill="url(#bg-sheen)"/></g>
+      <circle cx="30" cy="28" r="15" fill="#bf5af2" fill-opacity=".18"/>
+      <path d="M10 2l7 4v8l-7 4-7-4V6z M3 6l7 4 7-4 M10 10v8" transform="translate(21 19) scale(0.9)" fill="none" stroke="#bf5af2" stroke-width="1.8888888888888888" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="56" y="35" font-size="19" font-weight="600" letter-spacing="-.2" fill="#f5f5f7">Nothing to install</text>
+    </g></g>
+<g transform="translate(859 20)"><g class="bga6">
+      <clipPath id="bg-c3"><rect width="282" height="56" rx="28"/></clipPath>
+      <rect width="282" height="56" rx="28" fill="#1c1c1e" stroke="#fff" stroke-opacity=".16"/>
+      <g clip-path="url(#bg-c3)"><rect class="bga7" x="0" y="0" width="90" height="56" fill="url(#bg-sheen)"/></g>
+      <circle cx="30" cy="28" r="15" fill="#ff9f0a" fill-opacity=".18"/>
+      <path d="M6 9V6.5a4 4 0 0 1 8 0V9 M4.5 9h11v9h-11z" transform="translate(21 19) scale(0.9)" fill="none" stroke="#ff9f0a" stroke-width="1.8888888888888888" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="56" y="35" font-size="19" font-weight="600" letter-spacing="-.2" fill="#f5f5f7">Only talks to x.com</text>
+    </g></g>
+</g>
+</svg>

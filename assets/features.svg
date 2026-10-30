@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-labelledby="ft-t">
+<title id="ft-t">Free: $0, forever. Private: only talks to x.com. Hands-off: one press, done.</title>
+<style>@keyframes fta0{0%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}31.429%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}35.714%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(8px)}94.286%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(8px)}98.571%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}100%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}}.fta0{animation:fta0 7s infinite;transform-box:fill-box;transform-origin:center}@keyframes fta1{0%{stroke-dashoffset:260}12.857%{stroke-dashoffset:260;animation-timing-function:cubic-bezier(.45,0,.2,1)}21.429%{stroke-dashoffset:0}35.714%{stroke-dashoffset:0}35.857%{stroke-dashoffset:260}100%{stroke-dashoffset:260}}.fta1{animation:fta1 7s infinite;}@keyframes fta2{0%{opacity:0;transform:translateY(0px) scale(0.92);filter:blur(10px)}35%{opacity:0;transform:translateY(0px) scale(0.92);filter:blur(10px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}44.286%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}91.429%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}95.714%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(8px)}100%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(8px)}}.fta2{animation:fta2 7s infinite;transform-box:fill-box;transform-origin:center}@keyframes fta3{0%{transform:translateY(-14px)}17.143%{transform:translateY(-14px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.286%{transform:translateY(0px)}91.429%{transform:translateY(0px);animation-timing-function:cubic-bezier(.45,0,.2,1)}98.571%{transform:translateY(-14px)}100%{transform:translateY(-14px)}}.fta3{animation:fta3 7s infinite;}@keyframes fta4{0%{transform:scale(1)}24%{transform:scale(1);animation-timing-function:cubic-bezier(.2,.9,.25,1)}25.429%{transform:scale(.96)}30%{transform:scale(1)}100%{transform:scale(1)}}.fta4{animation:fta4 7s infinite;transform-box:fill-box;transform-origin:center}@keyframes fta5{0%{stroke-dashoffset:339.3}14.286%{stroke-dashoffset:339.3;animation-timing-function:cubic-bezier(.45,0,.2,1)}60%{stroke-dashoffset:0}91.429%{stroke-dashoffset:0;animation-timing-function:cubic-bezier(.55,0,1,.45)}97.143%{stroke-dashoffset:339.3}100%{stroke-dashoffset:339.3}}.fta5{animation:fta5 7s infinite;}@keyframes fta6{0%{opacity:0;transform:translateY(0px) scale(0.6);filter:blur(6px)}60%{opacity:0;transform:translateY(0px) scale(0.6);filter:blur(6px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}67.143%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}91.429%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}95.714%{opacity:0;transform:translateY(0px) scale(0.8);filter:blur(6px)}100%{opacity:0;transform:translateY(0px) scale(0.8);filter:blur(6px)}}.fta6{animation:fta6 7s infinite;transform-box:fill-box;transform-origin:center}@keyframes fta7{0%{transform:scale(1)}8.571%{transform:scale(1);animation-timing-function:cubic-bezier(.2,.9,.25,1)}10%{transform:scale(.8)}14.286%{transform:scale(1)}100%{transform:scale(1)}}.fta7{animation:fta7 7s infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){[class]{animation-delay:-4.5s!important;animation-play-state:paused!important}}</style>
+<defs>
+  <filter id="ft-au" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+  <clipPath id="ft-round"><rect width="1280" height="400" rx="28"/></clipPath>
+  <linearGradient id="ft-g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#30d158"/><stop offset="1" stop-color="#64d2ff"/></linearGradient>
+  <linearGradient id="ft-g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9f0a"/><stop offset="1" stop-color="#ff375f"/></linearGradient>
+  <linearGradient id="ft-g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff375f"/><stop offset="1" stop-color="#bf5af2"/></linearGradient>
+</defs>
+<g clip-path="url(#ft-round)" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+  <rect width="1280" height="400" fill="#000"/>
+  <g filter="url(#ft-au)"><circle cx="180" cy="60" r="220" fill="#ff375f" opacity="0.35"/><circle cx="640" cy="420" r="260" fill="#0a84ff" opacity="0.35"/><circle cx="1130" cy="80" r="240" fill="#bf5af2" opacity="0.38"/></g>
+  <g transform="translate(213 0)">
+    <g class="fta0"><text y="170" text-anchor="middle" font-size="64" font-weight="700" letter-spacing="-2" fill="#86868b">$9.99/mo</text>
+      <line class="fta1" x1="-128" y1="148" x2="128" y2="148" stroke="#ff375f" stroke-width="6" stroke-linecap="round" stroke-dasharray="260"/></g>
+    <g class="fta2"><text y="190" text-anchor="middle" font-size="128" font-weight="800" letter-spacing="-5" fill="url(#ft-g1)">$0</text></g>
+    <text y="300" text-anchor="middle" font-size="40" font-weight="700" letter-spacing="-1" fill="#f5f5f7">Free.</text>
+    <text y="342" text-anchor="middle" font-size="22" fill="#a1a1a6">$0, forever. No sign-up.</text>
+  </g>
+  <g transform="translate(640 0)">
+    <g transform="translate(-44 70)">
+      <path class="fta3" d="M18 52V34a26 26 0 0 1 52 0v18" fill="none" stroke="#f5f5f7" stroke-width="10" stroke-linecap="round"/>
+      <g class="fta4"><rect x="0" y="50" width="88" height="70" rx="16" fill="url(#ft-g2)"/><circle cx="44" cy="80" r="8" fill="#000" fill-opacity=".55"/><rect x="40" y="82" width="8" height="18" rx="4" fill="#000" fill-opacity=".55"/></g>
+    </g>
+    <text y="300" text-anchor="middle" font-size="40" font-weight="700" letter-spacing="-1" fill="#f5f5f7">Private.</text>
+    <text y="342" text-anchor="middle" font-size="22" fill="#a1a1a6">Only talks to x.com.</text>
+  </g>
+  <g transform="translate(1067 0)">
+    <g transform="translate(0 132)">
+      <circle r="54" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="14"/>
+      <circle class="fta5" r="54" fill="none" stroke="url(#ft-g3)" stroke-width="14" stroke-linecap="round" stroke-dasharray="339.3" transform="rotate(-90)"/>
+      <circle class="fta7" r="22" fill="#f5f5f7" fill-opacity=".12"/>
+      <g class="fta6"><path d="M-18 1l12 12 25-27" fill="none" stroke="#30d158" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+    </g>
+    <text y="300" text-anchor="middle" font-size="40" font-weight="700" letter-spacing="-1" fill="#f5f5f7">Hands-off.</text>
+    <text y="342" text-anchor="middle" font-size="22" fill="#a1a1a6">One press. Done.</text>
+  </g>
+</g>
+</svg>
