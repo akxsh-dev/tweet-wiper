@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="tb" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-labelledby="tb-title">
+<title id="tb-title">Tweet Wiper. Every tweet. Gone. Press Delete once and it does the rest, free, right in your browser.</title>
+<style>@keyframes tba0{0%{opacity:0;transform:translateY(12px) scale(0.98);filter:blur(8px)}2.5%{opacity:0;transform:translateY(12px) scale(0.98);filter:blur(8px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}10%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}40%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}45.25%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(10px)}100%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(10px)}}.tba0{animation:tba0 8s infinite;transform-box:fill-box;transform-origin:center}@keyframes tba1{0%{opacity:0;transform:translateY(12px) scale(0.98);filter:blur(8px)}3.75%{opacity:0;transform:translateY(12px) scale(0.98);filter:blur(8px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}11.25%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}42.25%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}47.5%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(10px)}100%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(10px)}}.tba1{animation:tba1 8s infinite;transform-box:fill-box;transform-origin:center}@keyframes tba2{0%{opacity:0;transform:translateY(12px) scale(0.98);filter:blur(8px)}5%{opacity:0;transform:translateY(12px) scale(0.98);filter:blur(8px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}12.5%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}44.5%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}49.75%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(10px)}100%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(10px)}}.tba2{animation:tba2 8s infinite;transform-box:fill-box;transform-origin:center}@keyframes tba3{0%{opacity:0;transform:translateY(0px) scale(0.92);filter:blur(8px)}51.25%{opacity:0;transform:translateY(0px) scale(0.92);filter:blur(8px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}58.125%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}82.5%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}86.875%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(8px)}100%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(8px)}}.tba3{animation:tba3 8s infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){[class]{animation-delay:-2.5s!important;animation-play-state:paused!important}}</style>
+<defs>
+  <linearGradient id="tb-av" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a84ff"/><stop offset="1" stop-color="#bf5af2"/></linearGradient>
+  <filter id="tb-aurora" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+  <linearGradient id="tb-eyebrow" gradientUnits="userSpaceOnUse" x1="64" y1="0" x2="200" y2="0"><stop offset="0" stop-color="#ff9f0a"/><stop offset="1" stop-color="#ff375f"/></linearGradient>
+  <linearGradient id="tb-gone" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="300" y2="0"><stop offset="0" stop-color="#ff375f"/><stop offset=".55" stop-color="#bf5af2"/><stop offset="1" stop-color="#0a84ff"/></linearGradient>
+  <linearGradient id="tb-glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".13"/><stop offset="1" stop-color="#fff" stop-opacity=".05"/></linearGradient>
+  <clipPath id="tb-round"><rect width="1280" height="440" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#tb-round)" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+  <rect width="1280" height="440" fill="#000"/>
+  <g filter="url(#tb-aurora)"><circle cx="905" cy="170" r="150" fill="#ff375f" opacity="0.55"/><circle cx="1150" cy="250" r="170" fill="#bf5af2" opacity="0.55"/><circle cx="990" cy="340" r="140" fill="#0a84ff" opacity="0.55"/><circle cx="1190" cy="100" r="90" fill="#ff9f0a" opacity="0.45"/></g>
+
+  <text x="64" y="98" font-size="22" font-weight="600" letter-spacing="-.2" fill="url(#tb-eyebrow)">Tweet Wiper</text>
+  <text x="60" y="182" font-size="80" font-weight="700" letter-spacing="-2.6" fill="#f5f5f7">Every tweet.</text>
+  <text x="60" y="266" font-size="80" font-weight="700" letter-spacing="-2.6" fill="url(#tb-gone)">Gone.</text>
+  <text x="64" y="322" font-size="22" font-weight="500" letter-spacing="-.2" fill="#a1a1a6">Press Delete once. It does the rest,</text>
+  <text x="64" y="352" font-size="22" font-weight="500" letter-spacing="-.2" fill="#a1a1a6">free, right in your own browser.</text>
+  <text x="64" y="402" font-size="16" letter-spacing=".1" fill="#86868b">No login   ·   Nothing to install   ·   No tracking</text>
+
+<g transform="translate(804 104)"><g class="tba0">
+      <rect width="412" height="76" rx="20" fill="url(#tb-glass)" stroke="#fff" stroke-opacity=".16"/>
+      <circle cx="38" cy="38" r="19" fill="url(#tb-av)"/>
+      <text x="70" y="32" font-size="16" font-weight="600" fill="#f5f5f7">You</text>
+      <text x="104" y="32" font-size="15" fill="#a1a1a6">@you · 8y</text>
+      <text x="70" y="56" font-size="17" fill="#f5f5f7">my 2014 tweets are a crime scene</text>
+    </g></g>
+<g transform="translate(804 192)"><g class="tba1">
+      <rect width="412" height="76" rx="20" fill="url(#tb-glass)" stroke="#fff" stroke-opacity=".16"/>
+      <circle cx="38" cy="38" r="19" fill="url(#tb-av)"/>
+      <text x="70" y="32" font-size="16" font-weight="600" fill="#f5f5f7">You</text>
+      <text x="104" y="32" font-size="15" fill="#a1a1a6">@you · 2h</text>
+      <text x="70" y="56" font-size="17" fill="#f5f5f7">hot take: pineapple belongs on pizza</text>
+    </g></g>
+<g transform="translate(804 280)"><g class="tba2">
+      <rect width="412" height="76" rx="20" fill="url(#tb-glass)" stroke="#fff" stroke-opacity=".16"/>
+      <circle cx="38" cy="38" r="19" fill="url(#tb-av)"/>
+      <text x="70" y="32" font-size="16" font-weight="600" fill="#f5f5f7">You</text>
+      <text x="104" y="32" font-size="15" fill="#a1a1a6">@you · 1m</text>
+      <text x="70" y="56" font-size="17" fill="#f5f5f7">deleting this later (I won't)</text>
+    </g></g>
+
+  <g transform="translate(1010 220)"><g class="tba3">
+    <rect x="-112" y="-30" width="224" height="60" rx="30" fill="#1c1c1e" fill-opacity=".72" stroke="#fff" stroke-opacity=".18"/>
+    <circle cx="-78" cy="0" r="14" fill="#30d158"/>
+    <path d="M-85 0.5l5 5 9-10" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="-54" y="7.5" font-size="21" font-weight="600" letter-spacing="-.3" fill="#f5f5f7">All gone</text>
+  </g></g>
+</g>
+</svg>

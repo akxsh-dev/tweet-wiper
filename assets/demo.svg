@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="td" viewBox="0 0 1280 800" width="1280" height="800" role="img" aria-labelledby="td-title">
+<title id="td-title">Tweet Wiper demo: press Delete once, it deletes posts by itself, rests at X's limit, and leaves an empty profile</title>
+<style>@keyframes tda0{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}18.333%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}21%{transform:translate(0px,0px) scale(0.97);opacity:0;filter:blur(6px)}98.75%{transform:translate(0px,0px) scale(0.97);opacity:0;filter:blur(6px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda0{animation:tda0 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda1{0%{opacity:0}16.167%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}18%{opacity:1}98.75%{opacity:1}98.758%{opacity:0}100%{opacity:0}}.tda1{animation:tda1 12s infinite;}@keyframes tda2{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}26.667%{transform:translate(0px,-104px) scale(0.97);opacity:0;filter:blur(6px)}98.75%{transform:translate(0px,-104px) scale(0.97);opacity:0;filter:blur(6px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda2{animation:tda2 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda3{0%{opacity:0}21.833%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}23.667%{opacity:1}98.75%{opacity:1}98.758%{opacity:0}100%{opacity:0}}.tda3{animation:tda3 12s infinite;}@keyframes tda4{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}25.667%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}29.667%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}30.25%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px)}32.333%{transform:translate(0px,-208px) scale(0.97);opacity:0;filter:blur(6px)}98.75%{transform:translate(0px,-208px) scale(0.97);opacity:0;filter:blur(6px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda4{animation:tda4 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda5{0%{opacity:0}27.5%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}29.333%{opacity:1}98.75%{opacity:1}98.758%{opacity:0}100%{opacity:0}}.tda5{animation:tda5 12s infinite;}@keyframes tda6{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}25.667%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}30.25%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px)}31.333%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}35.333%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}35.917%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px)}38%{transform:translate(0px,-312px) scale(0.97);opacity:0;filter:blur(6px)}98.75%{transform:translate(0px,-312px) scale(0.97);opacity:0;filter:blur(6px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda6{animation:tda6 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda7{0%{opacity:0}33.167%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}35%{opacity:1}98.75%{opacity:1}98.758%{opacity:0}100%{opacity:0}}.tda7{animation:tda7 12s infinite;}@keyframes tda8{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}25.667%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}30.25%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px)}31.333%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}35.917%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px)}37%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}41%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}41.583%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px)}43.667%{transform:translate(0px,-416px) scale(0.97);opacity:0;filter:blur(6px)}98.75%{transform:translate(0px,-416px) scale(0.97);opacity:0;filter:blur(6px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda8{animation:tda8 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda9{0%{opacity:0}38.833%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}40.667%{opacity:1}98.75%{opacity:1}98.758%{opacity:0}100%{opacity:0}}.tda9{animation:tda9 12s infinite;}@keyframes tda10{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}25.667%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}30.25%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px)}31.333%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}35.917%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px)}37%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}41.583%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px)}42.667%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}46.667%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}47.25%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px)}49.333%{transform:translate(0px,-520px) scale(0.97);opacity:0;filter:blur(6px)}98.75%{transform:translate(0px,-520px) scale(0.97);opacity:0;filter:blur(6px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda10{animation:tda10 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda11{0%{opacity:0}44.5%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}46.333%{opacity:1}98.75%{opacity:1}98.758%{opacity:0}100%{opacity:0}}.tda11{animation:tda11 12s infinite;}@keyframes tda12{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}25.667%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}30.25%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px)}31.333%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}35.917%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px)}37%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}41.583%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px)}42.667%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}47.25%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px)}48.333%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}52.917%{transform:translate(0px,-624px) scale(1);opacity:1;filter:blur(0px)}65%{transform:translate(0px,-624px) scale(1);opacity:1;filter:blur(0px)}67.5%{transform:translate(0px,-624px) scale(1);opacity:0;filter:blur(0px)}98.75%{transform:translate(0px,-624px) scale(1);opacity:0;filter:blur(0px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda12{animation:tda12 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda13{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}25.667%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}30.25%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px)}31.333%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}35.917%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px)}37%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}41.583%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px)}42.667%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}47.25%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px)}48.333%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}52.917%{transform:translate(0px,-624px) scale(1);opacity:1;filter:blur(0px)}65%{transform:translate(0px,-624px) scale(1);opacity:1;filter:blur(0px)}67.5%{transform:translate(0px,-624px) scale(1);opacity:0;filter:blur(0px)}98.75%{transform:translate(0px,-624px) scale(1);opacity:0;filter:blur(0px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda13{animation:tda13 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda14{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}25.667%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}30.25%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px)}31.333%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}35.917%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px)}37%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}41.583%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px)}42.667%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}47.25%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px)}48.333%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}52.917%{transform:translate(0px,-624px) scale(1);opacity:1;filter:blur(0px)}65%{transform:translate(0px,-624px) scale(1);opacity:1;filter:blur(0px)}67.5%{transform:translate(0px,-624px) scale(1);opacity:0;filter:blur(0px)}98.75%{transform:translate(0px,-624px) scale(1);opacity:0;filter:blur(0px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda14{animation:tda14 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda15{0%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}20%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}24.583%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px)}25.667%{transform:translate(0px,-104px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}30.25%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px)}31.333%{transform:translate(0px,-208px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}35.917%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px)}37%{transform:translate(0px,-312px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}41.583%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px)}42.667%{transform:translate(0px,-416px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}47.25%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px)}48.333%{transform:translate(0px,-520px) scale(1);opacity:1;filter:blur(0px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}52.917%{transform:translate(0px,-624px) scale(1);opacity:1;filter:blur(0px)}65%{transform:translate(0px,-624px) scale(1);opacity:1;filter:blur(0px)}67.5%{transform:translate(0px,-624px) scale(1);opacity:0;filter:blur(0px)}98.75%{transform:translate(0px,-624px) scale(1);opacity:0;filter:blur(0px)}98.758%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}100%{transform:translate(0px,0px) scale(1);opacity:1;filter:blur(0px)}}.tda15{animation:tda15 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda16{0%{opacity:0}10.417%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}10.583%{opacity:1}20%{opacity:1}20.167%{opacity:0}100%{opacity:0}}.tda16{animation:tda16 12s infinite;}@keyframes tda17{0%{opacity:0}20%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}20.167%{opacity:1}25.667%{opacity:1}25.833%{opacity:0}100%{opacity:0}}.tda17{animation:tda17 12s infinite;}@keyframes tda18{0%{opacity:0}25.667%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}25.833%{opacity:1}31.333%{opacity:1}31.5%{opacity:0}100%{opacity:0}}.tda18{animation:tda18 12s infinite;}@keyframes tda19{0%{opacity:0}31.333%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}31.5%{opacity:1}37%{opacity:1}37.167%{opacity:0}100%{opacity:0}}.tda19{animation:tda19 12s infinite;}@keyframes tda20{0%{opacity:0}37%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}37.167%{opacity:1}42.667%{opacity:1}42.833%{opacity:0}100%{opacity:0}}.tda20{animation:tda20 12s infinite;}@keyframes tda21{0%{opacity:0}42.667%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}42.833%{opacity:1}48.333%{opacity:1}48.5%{opacity:0}100%{opacity:0}}.tda21{animation:tda21 12s infinite;}@keyframes tda22{0%{opacity:0}48.333%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}48.5%{opacity:1}71.667%{opacity:1}71.833%{opacity:0}100%{opacity:0}}.tda22{animation:tda22 12s infinite;}@keyframes tda23{0%{opacity:0}71.667%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}71.833%{opacity:1}73.75%{opacity:1}73.917%{opacity:0}100%{opacity:0}}.tda23{animation:tda23 12s infinite;}@keyframes tda24{0%{opacity:0}73.75%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}73.917%{opacity:1}75.833%{opacity:1}76%{opacity:0}100%{opacity:0}}.tda24{animation:tda24 12s infinite;}@keyframes tda25{0%{opacity:0}75.833%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}76%{opacity:1}98.75%{opacity:1}98.917%{opacity:0}100%{opacity:0}}.tda25{animation:tda25 12s infinite;}@keyframes tda26{0%{transform:scaleX(0)}10%{transform:scaleX(0)}18.75%{transform:scaleX(0);animation-timing-function:cubic-bezier(.2,.9,.25,1)}21.667%{transform:scaleX(0.006)}24.417%{transform:scaleX(0.006);animation-timing-function:cubic-bezier(.2,.9,.25,1)}27.333%{transform:scaleX(0.012)}30.083%{transform:scaleX(0.012);animation-timing-function:cubic-bezier(.2,.9,.25,1)}33%{transform:scaleX(0.018)}35.75%{transform:scaleX(0.018);animation-timing-function:cubic-bezier(.2,.9,.25,1)}38.667%{transform:scaleX(0.024)}41.417%{transform:scaleX(0.024);animation-timing-function:cubic-bezier(.2,.9,.25,1)}44.333%{transform:scaleX(0.03)}47.083%{transform:scaleX(0.03);animation-timing-function:cubic-bezier(.2,.9,.25,1)}50%{transform:scaleX(0.036)}71.667%{transform:scaleX(0.036);animation-timing-function:cubic-bezier(.2,.9,.25,1)}78.333%{transform:scaleX(1)}98.75%{transform:scaleX(1)}98.758%{transform:scaleX(0)}100%{transform:scaleX(0)}}.tda26{animation:tda26 12s infinite;transform-box:fill-box;transform-origin:0 50%}@keyframes tda27{0%{opacity:0}10%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}10.833%{opacity:1}98.75%{opacity:1}99.583%{opacity:0}100%{opacity:0}}.tda27{animation:tda27 12s infinite;}@keyframes tda28{0%{opacity:0}50.417%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}50.583%{opacity:1}54.583%{opacity:1}54.75%{opacity:0}100%{opacity:0}}.tda28{animation:tda28 12s infinite;}@keyframes tda29{0%{opacity:0}54.583%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}54.75%{opacity:1}58.75%{opacity:1}58.917%{opacity:0}100%{opacity:0}}.tda29{animation:tda29 12s infinite;}@keyframes tda30{0%{opacity:0}58.75%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}58.917%{opacity:1}64.583%{opacity:1}64.75%{opacity:0}100%{opacity:0}}.tda30{animation:tda30 12s infinite;}@keyframes tda31{0%{transform:translate(560px,650px);opacity:0}2.917%{transform:translate(560px,650px);opacity:1;animation-timing-function:cubic-bezier(.45,0,.2,1)}9.167%{transform:translate(1040px,480px);opacity:1}15.833%{transform:translate(1040px,480px);opacity:1;animation-timing-function:cubic-bezier(.2,.9,.25,1)}18.333%{transform:translate(1040px,480px);opacity:0}98.75%{transform:translate(1040px,480px);opacity:0}98.758%{transform:translate(560px,650px);opacity:0}100%{transform:translate(560px,650px);opacity:0}}.tda31{animation:tda31 12s infinite;}@keyframes tda32{0%{transform:scale(1)}9.333%{transform:scale(1);animation-timing-function:cubic-bezier(0,0,.2,1)}9.833%{transform:scale(.97)}10.833%{transform:scale(.97);animation-timing-function:cubic-bezier(.2,.9,.25,1)}13.75%{transform:scale(1)}100%{transform:scale(1)}}.tda32{animation:tda32 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda33{0%{opacity:1}10.417%{opacity:1;animation-timing-function:cubic-bezier(.2,.9,.25,1)}12.917%{opacity:.5}98.75%{opacity:.5}98.758%{opacity:1}100%{opacity:1}}.tda33{animation:tda33 12s infinite;}@keyframes tda34{0%{opacity:0}61.667%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}65%{opacity:1}70.417%{opacity:1;animation-timing-function:cubic-bezier(.2,.9,.25,1)}73.75%{opacity:0}100%{opacity:0}}.tda34{animation:tda34 12s infinite;}@keyframes tda35{0%{opacity:0;transform:translateY(0px) scale(0.92);filter:blur(10px)}62.083%{opacity:0;transform:translateY(0px) scale(0.92);filter:blur(10px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}66.25%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px)}70%{opacity:1;transform:translateY(0px) scale(1);filter:blur(0px);animation-timing-function:cubic-bezier(.55,0,1,.45)}72.333%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(8px)}100%{opacity:0;transform:translateY(0px) scale(0.96);filter:blur(8px)}}.tda35{animation:tda35 12s infinite;transform-box:fill-box;transform-origin:center}@keyframes tda36{0%{opacity:0;transform:translateY(14px)}72.5%{opacity:0;transform:translateY(14px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}77.083%{opacity:1;transform:translateY(0px)}98.75%{opacity:1;transform:translateY(0px)}98.758%{opacity:0;transform:translateY(14px)}100%{opacity:0;transform:translateY(14px)}}.tda36{animation:tda36 12s infinite;}@keyframes tda37{0%{stroke-dashoffset:214}72.917%{stroke-dashoffset:214;animation-timing-function:cubic-bezier(.45,0,.2,1)}78.333%{stroke-dashoffset:0}98.75%{stroke-dashoffset:0}98.758%{stroke-dashoffset:214}100%{stroke-dashoffset:214}}.tda37{animation:tda37 12s infinite;}@keyframes tda38{0%{stroke-dashoffset:50}76.667%{stroke-dashoffset:50;animation-timing-function:cubic-bezier(.45,0,.2,1)}80%{stroke-dashoffset:0}98.75%{stroke-dashoffset:0}98.758%{stroke-dashoffset:50}100%{stroke-dashoffset:50}}.tda38{animation:tda38 12s infinite;}@keyframes tda39{0%{opacity:1}0.417%{opacity:1;animation-timing-function:cubic-bezier(.2,.9,.25,1)}4.167%{opacity:0}94.167%{opacity:0;animation-timing-function:cubic-bezier(.45,0,.2,1)}97.917%{opacity:1}100%{opacity:1}}.tda39{animation:tda39 12s infinite;}@keyframes tda40{0%{opacity:1}72.5%{opacity:1}72.667%{opacity:0}98.75%{opacity:0}98.758%{opacity:1}100%{opacity:1}}.tda40{animation:tda40 12s infinite;}@keyframes tda41{0%{opacity:0}72.5%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}72.917%{opacity:1}98.75%{opacity:1}99.167%{opacity:0}100%{opacity:0}}.tda41{animation:tda41 12s infinite;}@keyframes tda42{0%{opacity:1}10.417%{opacity:1}10.583%{opacity:0}98.75%{opacity:0}98.758%{opacity:1}100%{opacity:1}}.tda42{animation:tda42 12s infinite;}@keyframes tda43{0%{opacity:0}10.417%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}10.583%{opacity:1}76.667%{opacity:1}76.833%{opacity:0}100%{opacity:0}}.tda43{animation:tda43 12s infinite;}@keyframes tda44{0%{opacity:0}76.667%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}77.083%{opacity:1}98.75%{opacity:1}99.167%{opacity:0}100%{opacity:0}}.tda44{animation:tda44 12s infinite;}@keyframes tda45{0%{opacity:1}10.417%{opacity:1}10.583%{opacity:0}98.75%{opacity:0}98.758%{opacity:1}100%{opacity:1}}.tda45{animation:tda45 12s infinite;}@keyframes tda46{0%{opacity:0}10.417%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}10.583%{opacity:1}76.667%{opacity:1}76.833%{opacity:0}100%{opacity:0}}.tda46{animation:tda46 12s infinite;}@keyframes tda47{0%{opacity:0}76.667%{opacity:0;animation-timing-function:cubic-bezier(.2,.9,.25,1)}77.083%{opacity:1}98.75%{opacity:1}99.167%{opacity:0}100%{opacity:0}}.tda47{animation:tda47 12s infinite;}@keyframes tda48{0%{opacity:0;transform:translateY(6px)}11.25%{opacity:0;transform:translateY(6px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}14.583%{opacity:1;transform:translateY(0px)}98.75%{opacity:1;transform:translateY(0px)}98.758%{opacity:0;transform:translateY(6px)}100%{opacity:0;transform:translateY(6px)}}.tda48{animation:tda48 12s infinite;}@keyframes tda49{0%{opacity:0;transform:translateY(6px)}50.417%{opacity:0;transform:translateY(6px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}53.75%{opacity:1;transform:translateY(0px)}98.75%{opacity:1;transform:translateY(0px)}98.758%{opacity:0;transform:translateY(6px)}100%{opacity:0;transform:translateY(6px)}}.tda49{animation:tda49 12s infinite;}@keyframes tda50{0%{opacity:0;transform:translateY(6px)}76.667%{opacity:0;transform:translateY(6px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}80%{opacity:1;transform:translateY(0px)}98.75%{opacity:1;transform:translateY(0px)}98.758%{opacity:0;transform:translateY(6px)}100%{opacity:0;transform:translateY(6px)}}.tda50{animation:tda50 12s infinite;}@media (prefers-reduced-motion: reduce){[class]{animation-delay:-4.4s!important;animation-play-state:paused!important}}</style>
+<defs>
+  <linearGradient id="td-av" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a84ff"/><stop offset="1" stop-color="#bf5af2"/></linearGradient>
+  <filter id="td-wall" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="90"/></filter>
+  <clipPath id="td-round"><rect width="1280" height="800" rx="28"/></clipPath>
+  <clipPath id="td-window"><rect width="1200" height="720" rx="16"/></clipPath>
+  <clipPath id="td-feed"><rect x="0" y="179" width="660" height="541"/></clipPath>
+  <filter id="td-lift" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#000" flood-opacity=".6"/></filter>
+  <filter id="td-shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".75"/></filter>
+</defs>
+<g clip-path="url(#td-round)" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+  <rect width="1280" height="800" fill="#0b0b10"/>
+  <g filter="url(#td-wall)"><circle cx="160" cy="120" r="380" fill="#ff375f" opacity="0.5"/><circle cx="1130" cy="150" r="420" fill="#bf5af2" opacity="0.5"/><circle cx="700" cy="860" r="480" fill="#0a84ff" opacity="0.55"/><circle cx="1240" cy="760" r="260" fill="#ff9f0a" opacity="0.35"/></g>
+
+  <g transform="translate(40 40)">
+  <rect width="1200" height="720" rx="16" fill="#000" filter="url(#td-lift)"/>
+  <g clip-path="url(#td-window)">
+  <rect width="1200" height="720" fill="#000"/>
+
+  <!-- Safari-style window toolbar -->
+  <rect width="1200" height="56" fill="#232325"/>
+  <line x1="0" y1="56" x2="1200" y2="56" stroke="#000" stroke-opacity=".8"/>
+  <circle cx="22" cy="28" r="6.5" fill="#ff5f57"/><circle cx="42" cy="28" r="6.5" fill="#febc2e"/><circle cx="62" cy="28" r="6.5" fill="#28c840"/>
+  <g fill="none" stroke="#a1a1a6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="94" y="20" width="20" height="16" rx="3.5"/><line x1="101" y1="20" x2="101" y2="36"/>
+    <path d="M138 22l-6 6 6 6M156 22l6 6-6 6" stroke-opacity=".5"/>
+    <path d="M1118 30v-12M1112 23l6-6 6 6M1110 26h-1.5a2.5 2.5 0 0 0-2.5 2.5v7a2.5 2.5 0 0 0 2.5 2.5h17a2.5 2.5 0 0 0 2.5-2.5v-7a2.5 2.5 0 0 0-2.5-2.5h-1.5" transform="translate(0 -1)"/>
+    <path d="M1150 28h14M1157 21v14"/>
+  </g>
+  <rect x="400" y="13" width="400" height="30" rx="9" fill="#38383b"/>
+  <path d="M574 27v-2.2a4 4 0 0 1 8 0v2.2M571.8 27h12.4v8.2h-12.4z" fill="none" stroke="#a1a1a6" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="592" y="33.5" font-size="15" font-weight="500" fill="#f5f5f7">x.com</text>
+
+  <line x1="660" y1="56" x2="660" y2="720" stroke="#2f3336"/>
+
+  <!-- the X profile -->
+  <circle cx="66" cy="108" r="28" fill="url(#td-av)"/>
+  <text x="108" y="102" font-size="22" font-weight="800" fill="#e7e9ea">You</text>
+  <text class="tda40" x="108" y="126" font-size="16" fill="#71767b">@you · 5,000 posts</text>
+  <text class="tda41" x="108" y="126" font-size="16" fill="#71767b">@you · 0 posts</text>
+  <text x="40" y="162" font-size="17" font-weight="700" fill="#e7e9ea">Posts</text>
+  <rect x="38" y="171" width="48" height="4" rx="2" fill="#1d9bf0"/>
+  <text x="128" y="162" font-size="17" fill="#71767b">Replies</text>
+  <text x="226" y="162" font-size="17" fill="#71767b">Reposts</text>
+  <line x1="0" y1="178" x2="660" y2="178" stroke="#2f3336"/>
+
+  <g clip-path="url(#td-feed)">
+<g transform="translate(0 186)"><g class="tda0">
+      <rect class="tda1" x="14" y="4" width="632" height="96" rx="16" fill="#ff453a" fill-opacity=".16"/>
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 2h</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">hot take: pineapple belongs on pizza</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">12</text><text x="236" y="88">3</text><text x="346" y="88">48</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 290)"><g class="tda2">
+      <rect class="tda3" x="14" y="4" width="632" height="96" rx="16" fill="#ff453a" fill-opacity=".16"/>
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 5h</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">finally cleaned my desk. it won't last</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">4</text><text x="236" y="88">1</text><text x="346" y="88">22</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 394)"><g class="tda4">
+      <rect class="tda5" x="14" y="4" width="632" height="96" rx="16" fill="#ff453a" fill-opacity=".16"/>
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 9h</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">who else is awake at 3am for no reason</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">31</text><text x="236" y="88">6</text><text x="346" y="88">140</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 498)"><g class="tda6">
+      <rect class="tda7" x="14" y="4" width="632" height="96" rx="16" fill="#ff453a" fill-opacity=".16"/>
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 1d</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">this game is way too good, send help</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">2</text><text x="236" y="88">0</text><text x="346" y="88">17</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 602)"><g class="tda8">
+      <rect class="tda9" x="14" y="4" width="632" height="96" rx="16" fill="#ff453a" fill-opacity=".16"/>
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 2d</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">monday again. coffee number three.</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">9</text><text x="236" y="88">2</text><text x="346" y="88">61</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 706)"><g class="tda10">
+      <rect class="tda11" x="14" y="4" width="632" height="96" rx="16" fill="#ff453a" fill-opacity=".16"/>
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 3d</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">remember when tweets were 140 characters?</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">27</text><text x="236" y="88">14</text><text x="346" y="88">203</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 810)"><g class="tda12">
+      
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 4d</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">new phone, who dis</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">3</text><text x="236" y="88">0</text><text x="346" y="88">11</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 914)"><g class="tda13">
+      
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 5d</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">can't believe it's already november</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">6</text><text x="236" y="88">1</text><text x="346" y="88">35</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 1018)"><g class="tda14">
+      
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 6d</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">my 2014 tweets are a crime scene</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">44</text><text x="236" y="88">9</text><text x="346" y="88">312</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+<g transform="translate(0 1122)"><g class="tda15">
+      
+      <circle cx="64" cy="38" r="22" fill="url(#td-av)"/>
+      <text x="100" y="33" font-size="18" font-weight="700" fill="#e7e9ea">You</text>
+      <text x="142" y="33" font-size="17" fill="#71767b">@you · 1w</text>
+      <text x="100" y="62" font-size="18" fill="#e7e9ea">ok one more episode and then bed</text>
+      <g fill="none" stroke="#71767b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(100 73)"><path d="M2.5 8.5a6 6 0 0 1 6-6h3a6 6 0 0 1 0 12H8.5l-4.5 3.5v-4.2a6 6 0 0 1-1.5-5.3z"/></g><g transform="translate(210 73)"><path d="M1.5 6.5l3-3 3 3M4.5 3.5v9.5h6.5M18.5 13.5l-3 3-3-3M15.5 16.5V7H9"/></g><g transform="translate(320 73)"><path d="M10 17.5s-7.5-4.6-7.5-9.6A4.1 4.1 0 0 1 10 5.6a4.1 4.1 0 0 1 7.5 2.3c0 5-7.5 9.6-7.5 9.6z"/></g>
+      </g>
+      <g font-size="14" fill="#71767b"><text x="126" y="88">1</text><text x="236" y="88">0</text><text x="346" y="88">8</text></g>
+      <line x1="0" y1="104" x2="660" y2="104" stroke="#2f3336"/>
+    </g></g>
+  </g>
+
+  <g class="tda36">
+    <circle cx="330" cy="318" r="34" fill="none" stroke="#30d158" stroke-width="4" opacity=".2"/>
+    <circle class="tda37" cx="330" cy="318" r="34" fill="none" stroke="#30d158" stroke-width="4" stroke-linecap="round" stroke-dasharray="214" transform="rotate(-90 330 318)"/>
+    <path class="tda38" d="M314 319l11 11 21-23" fill="none" stroke="#30d158" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="50"/>
+    <text x="330" y="398" text-anchor="middle" font-size="28" font-weight="700" letter-spacing="-.6" fill="#e7e9ea">Nothing here anymore</text>
+    <text x="330" y="432" text-anchor="middle" font-size="18" fill="#71767b">Every post, reply and repost is gone.</text>
+  </g>
+
+  <!-- the Tweet Wiper panel, as it really looks -->
+  <g filter="url(#td-shadow)"><rect x="676" y="74" width="490" height="626" rx="18" fill="#0f1419" stroke="#2f3336"/></g>
+  <text x="700" y="114" font-size="21" font-weight="800" fill="#e7e9ea">Tweet Wiper</text>
+  <text x="838" y="114" font-size="17" fill="#71767b">@you</text>
+  <text x="1096" y="114" font-size="22" fill="#71767b">–</text>
+  <text x="1128" y="115" font-size="24" fill="#71767b">×</text>
+  <line x1="676" y1="134" x2="1166" y2="134" stroke="#2f3336"/>
+
+  <text x="700" y="166" font-size="16" font-weight="700" fill="#e7e9ea">1. Load your tweets</text>
+  <rect x="700" y="180" width="214" height="40" rx="20" fill="#e7e9ea"/>
+  <text x="807" y="206" text-anchor="middle" font-size="16" font-weight="700" fill="#0f1419">Load archive file</text>
+  <rect x="928" y="180" width="214" height="40" rx="20" fill="none" stroke="#536471"/>
+  <text x="1035" y="206" text-anchor="middle" font-size="16" font-weight="700" fill="#e7e9ea">Scan my profile</text>
+  <text x="700" y="248" font-size="15" fill="#71767b">Loaded 5,000: 3,120 posts, 1,460 replies, 420 reposts.</text>
+  <line x1="700" y1="268" x2="1142" y2="268" stroke="#2f3336"/>
+
+  <text x="700" y="300" font-size="16" font-weight="700" fill="#e7e9ea">2. Choose what goes</text>
+  <rect x="700" y="317" width="17" height="17" rx="4" fill="#1d9bf0"/><path d="M3.5 8.5l3 3 6-7" transform="translate(700.5 317.5)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><text x="725" y="331" font-size="16" fill="#e7e9ea">Posts</text><rect x="802" y="317" width="17" height="17" rx="4" fill="#1d9bf0"/><path d="M3.5 8.5l3 3 6-7" transform="translate(802.5 317.5)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><text x="827" y="331" font-size="16" fill="#e7e9ea">Replies</text><rect x="918" y="317" width="17" height="17" rx="4" fill="#1d9bf0"/><path d="M3.5 8.5l3 3 6-7" transform="translate(918.5 317.5)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><text x="943" y="331" font-size="16" fill="#e7e9ea">Reposts</text>
+  <text class="tda42" x="700" y="374" font-size="16" font-weight="700" fill="#e7e9ea">Will delete 5,000 of 5,000</text>
+  <g class="tda43" font-size="16" font-weight="700" fill="#00ba7c">
+    <text x="700" y="366">Running by itself. Nothing to click:</text>
+    <text x="700" y="388">just leave this tab open.</text>
+  </g>
+  <text class="tda44" x="700" y="374" font-size="16" font-weight="700" fill="#e7e9ea">Will delete 0 of 5,000</text>
+  <line x1="700" y1="410" x2="1142" y2="410" stroke="#2f3336"/>
+
+  <text x="700" y="442" font-size="16" font-weight="700" fill="#e7e9ea">3. Delete</text>
+  <rect x="700" y="456" width="214" height="40" rx="20" fill="none" stroke="#536471"/>
+  <text x="807" y="482" text-anchor="middle" font-size="16" font-weight="700" fill="#e7e9ea">Preview</text>
+  <g class="tda32"><g class="tda33">
+    <rect x="928" y="456" width="214" height="40" rx="20" fill="#f4212e"/>
+    <text class="tda45" x="1035" y="482" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Delete</text>
+    <text class="tda46" x="1035" y="482" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Running...</text>
+    <text class="tda47" x="1035" y="482" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Delete</text>
+  </g></g>
+  <g class="tda27"><rect x="700" y="516" width="442" height="8" rx="4" fill="#2f3336"/></g>
+  <rect class="tda26" x="700" y="516" width="442" height="8" rx="4" fill="#f4212e"/>
+  <text class="tda16" x="700" y="552" font-size="15" fill="#e7e9ea">0 / 5,000 · deleted 0 · failed 0</text><text class="tda17" x="700" y="552" font-size="15" fill="#e7e9ea">30 / 5,000 · deleted 30 · failed 0</text><text class="tda18" x="700" y="552" font-size="15" fill="#e7e9ea">60 / 5,000 · deleted 60 · failed 0</text><text class="tda19" x="700" y="552" font-size="15" fill="#e7e9ea">90 / 5,000 · deleted 90 · failed 0</text><text class="tda20" x="700" y="552" font-size="15" fill="#e7e9ea">120 / 5,000 · deleted 120 · failed 0</text><text class="tda21" x="700" y="552" font-size="15" fill="#e7e9ea">150 / 5,000 · deleted 150 · failed 0</text><text class="tda22" x="700" y="552" font-size="15" fill="#e7e9ea">180 / 5,000 · deleted 180 · failed 0</text><text class="tda23" x="700" y="552" font-size="15" fill="#e7e9ea">2,140 / 5,000 · deleted 2,140 · failed 0</text><text class="tda24" x="700" y="552" font-size="15" fill="#e7e9ea">3,870 / 5,000 · deleted 3,870 · failed 0</text><text class="tda25" x="700" y="552" font-size="15" fill="#e7e9ea">5,000 / 5,000 · deleted 5,000 · failed 0</text>
+  <text class="tda28" x="700" y="580" font-size="15" fill="#1d9bf0">Near X's limit (5 left). Resuming in 14:59</text><text class="tda29" x="700" y="580" font-size="15" fill="#1d9bf0">Near X's limit (5 left). Resuming in 14:58</text><text class="tda30" x="700" y="580" font-size="15" fill="#1d9bf0">Near X's limit (5 left). Resuming in 14:57</text>
+  <rect x="700" y="596" width="442" height="92" rx="10" fill="#000" stroke="#2f3336"/>
+  <text x="714" y="618" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b98a5">20:14  Logged in as @you.</text>
+  <text class="tda48" x="714" y="638" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#00ba7c">20:15  Deleting 5,000. Keep this tab open.</text>
+  <text class="tda49" x="714" y="658" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b98a5">20:18  Near X's limit. Resting 16 min.</text>
+  <text class="tda50" x="714" y="678" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#00ba7c">02:41  All done. Deleted 5,000, failed 0.</text>
+
+  <g class="tda31">
+    <path d="M0 0v23l6.2-5.6 4.6 9.8 3.8-1.7-4.5-9.6H18z" fill="#000" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/>
+  </g>
+
+  <rect class="tda34" width="1200" height="720" fill="#000" fill-opacity=".55"/>
+  <g transform="translate(600 380)"><g class="tda35">
+    <rect x="-150" y="-36" width="300" height="72" rx="36" fill="#1c1c1e" fill-opacity=".82" stroke="#fff" stroke-opacity=".16"/>
+    <path d="M-112 -12l15 12-15 12zM-93 -12l15 12-15 12z" fill="#f5f5f7"/>
+    <text x="-64" y="8.5" font-size="24" font-weight="600" letter-spacing="-.4" fill="#f5f5f7">6 hours later</text>
+  </g></g>
+
+  <rect class="tda39" width="1200" height="720" fill="#000"/>
+  </g>
+  <rect width="1200" height="720" rx="16" fill="none" stroke="#fff" stroke-opacity=".12"/>
+  </g>
+</g>
+</svg>
