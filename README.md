@@ -58,22 +58,14 @@ You need a desktop browser: Chrome, Edge, Brave, Firefox or another Chromium bro
 
 That's it. Leave the tab open. When a batch is done it rescans your profile and keeps going until nothing that matches your filters is left.
 
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howto.mp4"><img src="assets/videos/howto-preview.gif" width="100%" alt="Video: how to use Tweet Wiper, step by step"></a>
-  <br>
-  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howto.mp4"><b>▶&nbsp;&nbsp;Watch with sound</b></a>
-</p>
+https://github.com/user-attachments/assets/db2d25e8-0a50-4aae-9a6d-cf31a3405a3f
 
 > [!WARNING]
 > Deleting is permanent and X has no undo. If you might want your tweets later, [download your X archive](#old-tweets-and-your-archive) first.
 
 ## How long it takes
 
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howlong.mp4"><img src="assets/videos/howlong-preview.gif" width="100%" alt="Video: how long it takes, about 200 deletes every 15 minutes"></a>
-  <br>
-  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howlong.mp4"><b>▶&nbsp;&nbsp;Watch with sound</b></a>
-</p>
+https://github.com/user-attachments/assets/527703e3-3c89-4bac-b9b8-a68ed9020795
 
 About 800 an hour: **1,000** tweets take about 1.5 hours, **5,000** about 7 hours, **20,000** about a day. Keep the tab open and the computer awake.
 
@@ -148,11 +140,7 @@ Only these number settings are read. Anything else in `tweetWiperConfig` is igno
 
 ## How it works
 
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howitworks.mp4"><img src="assets/videos/howitworks-preview.gif" width="100%" alt="Video: how Tweet Wiper works"></a>
-  <br>
-  <a href="https://cdn.jsdelivr.net/gh/akxsh-dev/tweet-wiper@main/assets/videos/tweet-wiper-howitworks.mp4"><b>▶&nbsp;&nbsp;Watch with sound</b></a>
-</p>
+https://github.com/user-attachments/assets/5f3c6661-5fe6-4111-abbb-7553cd0ffec6
 
 <details>
 <summary><b>The details</b></summary>
